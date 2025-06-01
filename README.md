@@ -1,8 +1,5 @@
 # GEC-Syntax-Data-Augmentation
 
-## 简介
-论文发表后更新简介
-
 ## 设置
 实验环境：
 ```sh
@@ -21,7 +18,7 @@ T   [tgt]
 S   [src]
 T   [tgt]
 ```
-实验环境和英文数据集请参考[gecdi](https://github.com/Jacob-Zhou/gecdi)仓库，中文数据集可[在此](https://github.com/Jacob-Zhou/gecdi)获得
+实验环境和英文数据集请参考[gecdi](https://github.com/Jacob-Zhou/gecdi)仓库，中文数据集可[在此](https://drive.google.com/file/d/1qpbEkdGL_EpSu7hI4e98YQ7A3QrTQQDS/view?usp=sharing)获得
 
 ## 模型训练
 请参考[train_zh_baseline.sh](train_zh_baseline.sh)与[train_zh_aug.sh](train_zh_aug.sh)
